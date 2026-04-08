@@ -1,4 +1,12 @@
-streamlit
-joblib
 numpy
+pandas
 scikit-learn
+scipy
+matplotlib
+seaborn
+joblib
+streamlit
+python-dateutil
+pytz
+Pillow
+requests
